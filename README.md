@@ -1,1 +1,1 @@
-# leaderboard
+To launch application please run nick.leaderboard.Application.main method
